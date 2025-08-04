@@ -35,6 +35,6 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/RajputSneha17/Todo.git
-cd react-todo-app
+cd Todo
 npm install
 npm start
